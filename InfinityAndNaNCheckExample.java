@@ -11,6 +11,6 @@ public class InfinityAndNaNCheckExample {
 		System.out.println(Double.isInfinite(z));
 		System.out.println(Double.isNaN(z));
 		
-		System.out.println(z + 2); //¹®Á¦°¡ µÇ´Â ÄÚµå
+		System.out.println(z + 2); //ë¬¸ì œê°€ ë˜ëŠ” ì½”ë“œ
 	}
 }
