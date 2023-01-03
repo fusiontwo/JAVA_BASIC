@@ -3,7 +3,7 @@ package chap4;
 public class IfNestedExample {
 	public static void main(String[] args) {
 		int score = (int)(Math.random()*20) + 81;
-		System.out.println("Á¡¼ö: " + score);
+		System.out.println("ì ìˆ˜: " + score);
 		
 		String grade;
 		
@@ -21,6 +21,6 @@ public class IfNestedExample {
 			}
 		}
 		
-		System.out.println("ÇĞÁ¡: " + grade);
+		System.out.println("í•™ì : " + grade);
 	}
 }
